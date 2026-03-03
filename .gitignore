@@ -177,3 +177,7 @@ wandb/
 swanlog/
 generated_predictions.jsonl
 predictions_score.json
+
+# Large datasets
+data/cold_start_9k/
+data/vlm_adaptive_reasoning/
